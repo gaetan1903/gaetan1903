@@ -1,3 +1,3 @@
-### Miaraha tompoko o! 👋
+### Miarahaba tompoko o! 👋
 
-## Misaotra Mitsidika
+#### Misaotra Mitsidika
