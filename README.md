@@ -2,7 +2,7 @@
 
 
 [![Gaetan Jonathan github stats](https://github-readme-stats.vercel.app/api?username=gaetan1903&show_icons=true&theme=prussian&locale=fr&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaetan1903&hide=css,html&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaetan1903&hide=css,html&langs_count=10&layout=compact&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
