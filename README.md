@@ -1,8 +1,8 @@
 ### Miarahaba tompoko o! 👋
 
 
-[![Gaetan Jonathan github stats](https://github-readme-stats.vercel.app/api?username=gaetan1903&show_icons=true&locale=fr&title_color=teal&text_color=teal&icon_color=teal)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaetan1903&hide=css,html&langs_count=10&layout=compact&locale=fr&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Gaetan Jonathan github stats](https://github-readme-stats.vercel.app/api?username=gaetan1903&show_icons=true&locale=fr&title_color=008080&icon_color=008080)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaetan1903&hide=css,html&langs_count=10&layout=compact&locale=fr&hide_border=true&title_color=008080)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
