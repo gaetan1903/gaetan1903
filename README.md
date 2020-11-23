@@ -5,10 +5,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaetan1903&hide=css,html&langs_count=10&layout=compact&locale=en&hide_border=true&title_color=008080)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+<br/>
 
 <p align=center> <strong> Gaetan Jonathan :blush: </strong> alias <strong> gaetan1903 :joy: </strong> <p>
 
+<br/>
 
 
 <a> <img align=left src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/python.png"> </a>
