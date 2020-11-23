@@ -7,7 +7,7 @@
 
 
 
-<p align=center> <strong> Gaetan Jonathan </strong> alias <strong> gaetan1903 </strong> <p>
+<p align=center> <strong> Gaetan Jonathan :blush: </strong> alias <strong> gaetan1903 :joy: </strong> <p>
 
 
 
@@ -22,4 +22,3 @@
 
 
 
-### Misaotra nitsidika
