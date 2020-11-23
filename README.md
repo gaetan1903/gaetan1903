@@ -7,9 +7,13 @@
 
 
 
+### Misaotra Mitsidika
 
-#### Misaotra Mitsidika
+<div>
+  <img align="left" src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/python.png">
 
-<div align="center">
-<a href="https://www.facebook.com/gaetan1903" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <img align="center" src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/archlinux.png">
+  
+  <img align="right" width=100 src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Identity/PNG/BASH_logo-transparent-bg-bw.png">
+  
 </div>
