@@ -11,9 +11,15 @@
 
 
 
-  <a> <img align=left src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/python.png"> </a>
-  <a> <img align=right src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/archlinux.png"> </a>
+<a> <img align=left src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/python.png"> </a>
+<a> <img align=right src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/archlinux.png"> </a>
 
-  
-  
-  ### Misaotra nitsidika
+
+<p align=center> <img width=100 src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Identity/PNG/BASH_logo-transparent-bg-color.png"> </p>
+
+
+
+
+
+
+### Misaotra nitsidika
