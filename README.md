@@ -7,7 +7,7 @@
 
 
 
-### Misaotra Mitsidika
+<p align=center> <strong> Gaetan Jonathan </strong> alias <strong> gaetan1903 </strong> <p>
 
 
 
@@ -15,3 +15,5 @@
   <a> <img align=right src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/archlinux.png"> </a>
 
   
+  
+  ### Misaotra nitsidika
