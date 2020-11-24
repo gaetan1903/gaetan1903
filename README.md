@@ -7,7 +7,7 @@
 
 <br/>
 
-<p align=center> <strong> Gaetan Jonathan :blush: </strong> alias <strong> gaetan1903 :joy: </strong> <p>
+<p align=center> <strong> <i>Gaetan Jonathan</i> :blush: </strong> as <strong> gaetan1903 :joy: </strong> <p>
 
 <br/>
 
