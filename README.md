@@ -1,4 +1,4 @@
-### Miarahaba tompoko o! 👋
+<p align=center>  <strong> Miarahaba tompoko o! 👋 </strong> <p>
 
 
 [![Gaetan Jonathan github stats](https://github-readme-stats.vercel.app/api?username=gaetan1903&show_icons=true&locale=en&title_color=008080&icon_color=008080&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
