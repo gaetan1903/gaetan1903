@@ -34,13 +34,11 @@
   <img alt='JQUERY' src='https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white'/>
   <img alt='Docker' src='https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white'/>
   <img alt='Selenium' src='https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white'/>
-  <img alt='Heroku' src='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white'/>
   <img alt='Github Actions' src='https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white'/>
 <p>
   
  <br/>
 <p align='center'>
   <img alt='Arch Linux' src='https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white'/>
-  <img alt='Android' src='https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white'/>
   <img alt='Ubuntu' src='https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white'/>
 <p>
