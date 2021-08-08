@@ -6,7 +6,7 @@
   
 <br/>
   
-<p align='center'><img alt='Powered by CodersRank' src='https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=gaetan1903&style=--bg-color:transparent;--border-radius:4px;--label-text-color:%23000&branding=false'/></p>
+<p align='center'><img alt='Powered by CodersRank' src='https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=gaetan1903&style=--bg-color:transparent;--border-radius:4px;--label-text-color:%008080&branding=false'/></p>
 
 <br/>
 
