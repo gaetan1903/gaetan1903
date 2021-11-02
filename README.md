@@ -8,12 +8,6 @@
   <a href='https://facebook.com/gaetan1903'><img alt='Facebook' src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white'/></a>
   <a href='https://linkedin.com/in/gaetanj'><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
 <p>
-  
-<br/>
-  
-<p align='center'><img alt='Powered by CodersRank' src='https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=gaetan1903&style=--bg-color:transparent;--border-radius:4px;--label-text-color:%008080&branding=false'/></p>
-
-<br/>
 
 <p align='center'>
   <img alt='Python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'/>
