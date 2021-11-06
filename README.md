@@ -5,13 +5,8 @@
 </strong> <p>
   
 <div>
-<!--   <p align="center">
-    <b><em>Now listening to:</em></b> <br/>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=lakshmanan.meiyappan&cover_image=true&theme=novatorem" alt="Now Listenting to" />
-  </p> -->
-  
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaetan1903" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=gaetan1903&theme=solarized-dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Stats" /> <br/><br/>
   </p>
 </div>
 
