@@ -3,6 +3,17 @@
 <p align=center>  <strong>
 <img src='https://komarev.com/ghpvc/?username=gaetan1903&color=008080'>
 </strong> <p>
+  
+<div>
+<!--   <p align="center">
+    <b><em>Now listening to:</em></b> <br/>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=lakshmanan.meiyappan&cover_image=true&theme=novatorem" alt="Now Listenting to" />
+  </p> -->
+  
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaetan1903" alt="GitHub Stats" /> <br/><br/>
+  </p>
+</div>
 
 <p align='center'>
   <a href='https://facebook.com/gaetan1903'><img alt='Facebook' src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white'/></a>
