@@ -15,6 +15,9 @@
   <a href='https://linkedin.com/in/gaetanj'><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
 <p>
 
+__________________________________________________________________________________
+  
+  
 <p align='center'>
   <img alt='Python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'/>
   <img alt='Dart' src='https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white'/>
