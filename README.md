@@ -37,6 +37,6 @@
 </div>
 <div align="center">
 	<a href="https://facebook.com/gaetan1903"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/facebook.svg" width="30" height="30"></a> &nbsp; 
-	<a href="https://www.linkedin.com/in/gaetan.j"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/linkedin.svg" width="30" height="30"></a> &nbsp;
+	<a href="https://www.linkedin.com/in/gaetanj"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/linkedin.svg" width="30" height="30"></a> &nbsp;
 	<a href="mailto:gaetan.s118@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/gmail.svg" width="30" height="30"></a>
 </div>
