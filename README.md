@@ -2,8 +2,9 @@
 
 <p align=center>  
   <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=%2300B6B6&center=true&lines=Gaetan+Jonathan+BAKARY'>
-<p>
-  
+</p>
+
+
 <p align=center>  <strong>
 <img src='https://komarev.com/ghpvc/?username=gaetan1903&color=008080'>
 </strong> <p>
@@ -28,15 +29,18 @@
 <p align='center'>
   <img alt='Arch Linux' src='https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white'/>
   <img alt='Ubuntu' src='https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white'/>
+  </br></br>
+  <img width='200px' src='https://github.com/gaetan1903/gaetan1903/raw/master/qr-code.png'>
 <p> 
 
-
-   <br/>
  <br/>
 
 </div>
-<div align="center">
-	<a href="https://facebook.com/gaetan1903"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/facebook.svg" width="30" height="30"></a> &nbsp; 
-	<a href="https://www.linkedin.com/in/gaetanj"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/linkedin.svg" width="30" height="30"></a> &nbsp;
-	<a href="mailto:gaetan.s118@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/gmail.svg" width="30" height="30"></a>
-</div>
+<p align=center>
+  <a href="https://www.linkedin.com/in/gaetanj/"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/in.png"></a>
+  &nbsp
+  <a href="https://gaetan.iteam-s.mg"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/iteams.png"></a>
+  &nbsp
+  <a href="https://www.facebook.com/gaetan1903/"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/facebook.png"></a>
+</p>
+
