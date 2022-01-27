@@ -11,7 +11,7 @@
   
 <div>
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=gaetan1903&theme=solarized-dark&theme=leafy&background=040512&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=08E8FF&currStreakLabel=08E8FF" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=gaetan1903&theme=solarized-dark&theme=leafy&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=08E8FF&currStreakLabel=08E8FF" alt="GitHub Stats" /> <br/><br/>
   </p>
 </div>
 
@@ -34,6 +34,11 @@
 <p> 
 
  <br/>
+  <p align='center'>
+   <img src='https://github-profile-trophy.vercel.app/?username=gaetan1903&theme=gruvbox&row=1&no-frame=true' />
+  </p>
+ 
+  <br/>
 
 </div>
 <p align=center>
