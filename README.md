@@ -1,7 +1,7 @@
 <p align=center>  <strong> 🇲🇬 Miarahaba tompoko o! 👋 🇲🇬 </strong> <p>
 
 <p align=center>  
-  <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=%2300B6B6&center=true&lines=Gaetan+Jonathan+BAKARY'>
+  <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=%2300B6B6&center=true&lines=Gaetan+Jonathan+BAKARY+as+gaetan1903&duration=8000'>
 </p>
 
 
@@ -11,7 +11,7 @@
   
 <div>
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=gaetan1903&theme=solarized-dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=gaetan1903&theme=solarized-dark&date_format=j%20M%5B%20Y%5D&&theme=leafy&date_format=j%2Fn%5B%2FY%5D&background=040512&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=08E8FF&currStreakLabel=08E8FF" alt="GitHub Stats" /> <br/><br/>
   </p>
 </div>
 
