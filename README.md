@@ -29,8 +29,7 @@
 <p align='center'>
   <img alt='Arch Linux' src='https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white'/>
   <img alt='Ubuntu' src='https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white'/>
-  </br></br>
-  <img width='200px' src='https://github.com/gaetan1903/gaetan1903/raw/master/qr-code.png'>
+  </br>
 <p> 
 
  <br/>
