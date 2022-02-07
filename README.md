@@ -1,7 +1,7 @@
-<p align=center>  <strong> 🇲🇬 Miarahaba tompoko o! 👋 🇲🇬 </strong> <p>
+<p align=center>  <strong> 🇲🇬 Akory e 👋 🇲🇬 </strong> <p>
 
 <p align=center>  
-  <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=%2300B6B6&center=true&lines=Gaetan+Jonathan+BAKARY+as+`gaetan1903`&duration=7000'>
+  <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=teal&center=true&lines=Gaetan+Jonatan+...&duration=7000'>
 </p>
 
 
