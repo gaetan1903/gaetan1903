@@ -1,7 +1,7 @@
 <p align=center>  <strong> 🇲🇬 Akory e 👋 🇲🇬 </strong> <p>
 
 <p align=center>  
-  <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=08E8FF&center=true&lines=%24%20docker%20exec%20-ti%20arch%20akory.sh&duration=7000'>
+  <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=06ACBD&center=true&lines=%24%20docker%20exec%20-ti%20arch%20akory.sh&duration=7000'>
 </p>
 
 
@@ -11,7 +11,7 @@
   
 <div>
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=gaetan1903&theme=solarized-dark&theme=leafy&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=08E8FF&currStreakLabel=08E8FF&background=ffffff00&hide_border=true&stroke=ffffff00" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=gaetan1903&theme=solarized-dark&theme=leafy&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=06ACBD&currStreakLabel=06ACBD&background=ffffff00&hide_border=true&stroke=ffffff00" alt="GitHub Stats" /> <br/><br/>
   </p>
 </div>
 
