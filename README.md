@@ -25,7 +25,6 @@
   <img alt='BASH' src='https://img.shields.io/badge/bash-3776AB?style=for-the-badge&logo=linux&logoColor=white'/>
 
 
-
  <br/>
 <p align='center'>
   <img alt='Arch Linux' src='https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white'/>
@@ -33,10 +32,6 @@
   </br>
 <p> 
 
- <br/>
-  <p align='center'>
-    <img src='https://activity-graph.herokuapp.com/graph?username=gaetan1903&theme=gotham&hide_border=true&bg_color=ffffff00'/>
-  </p>
  
   <br/>
 
