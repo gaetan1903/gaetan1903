@@ -18,12 +18,16 @@
   
   
 <p align='center'>
+  </br>
+  <img src='https://github.com/gaetan1903/gaetan1903/blob/output/github-contribution-grid-snake.svg'>
+  </br>
   <img alt='Python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'/>
   <img alt='Dart' src='https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white'/>
   <img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=teal'/>
   <img alt='PHP' src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'/>
   <img alt='BASH' src='https://img.shields.io/badge/bash-3776AB?style=for-the-badge&logo=linux&logoColor=white'/>
 
+  </p>
 
  <br/>
 <p align='center'>
