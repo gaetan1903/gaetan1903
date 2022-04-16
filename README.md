@@ -1,7 +1,7 @@
 <p align=center>  <strong> 🇲🇬 Akory e 👋 🇲🇬 </strong> <p>
 
 <p align=center>  
-  <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=06ACBD&center=true&lines=%24%20docker%20exec%20-ti%20arch%20akory.sh&duration=7000'>
+  <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=06ACBD&center=true&lines=%24%20docker%20exec%20-ti%20arch%20akory.sh;%24%20podman%20exec%20-ti%20arch%20akory.sh&duration=7000'>
 </p>
 
 
