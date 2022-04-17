@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Gaetan+Jonathan&fontSize=32" />
 <p align=center>  <strong> 🇲🇬 Akory e 👋 🇲🇬 </strong> <p>
 
 <p align=center>  
