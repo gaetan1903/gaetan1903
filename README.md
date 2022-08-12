@@ -5,16 +5,9 @@
   <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=06ACBD&center=true&lines=%24%20podman%20exec%20-ti%20arch%20akory%20%22Mbarakaly%20%E2%80%99nareo%20%C3%B4%22;Mbarakaly%20%E2%80%99nareo%20%C3%B4&size=18'>
 </p>
 
-
-<p align=center>  <strong>
-<img src='https://komarev.com/ghpvc/?username=gaetan1903&color=008080'>
-</strong> <p>
-
-<div>
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=gaetan1903&theme=solarized-dark&theme=leafy&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=06ACBD&currStreakLabel=06ACBD&background=ffffff00&hide_border=true&stroke=ffffff00" alt="GitHub Stats" /> <br/><br/>
   </p>
-</div>
   
   
 <p align='center'>
@@ -26,7 +19,6 @@
 
   </p>
 
-
 <p align='center'>
   <img alt='Arch Linux' src='https://img.shields.io/badge/Arch_Linux-008080?style=for-the-badge&logo=arch-linux&logoColor=white'/>
   <img alt='Ubuntu' src='https://img.shields.io/badge/Ubuntu-008080?style=for-the-badge&logo=ubuntu&logoColor=white'/>
@@ -34,12 +26,7 @@
 <p> 
  <br/>
 
-</div>
-<p align=center>
-  <a href="https://www.linkedin.com/in/gaetanj/"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/in.png"></a>
-  &nbsp
-  <a href="https://gaetan.iteam-s.mg"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/iteams.png"></a>
-  &nbsp
-  <a href="https://www.facebook.com/gaetan1903/"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/facebook.png"></a>
-</p>
+<p align=center>  <strong>
+<img src='https://komarev.com/ghpvc/?username=gaetan1903&color=008080'>
+</strong> <p>
 
