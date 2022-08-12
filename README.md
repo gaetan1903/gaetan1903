@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1edaca,100:008080&fontColor=dedede&height=200&section=header&text=Tsara%20zalahy%20manimanina%20e%2C%20misaotra%20mamangy%20&fontSize=24" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:423da7,100:008080&fontColor=dedede&height=200&section=header&text=Tsara%20zalahy%20manimanina%20e%2C%20misaotra%20mamangy%20&fontSize=24" />
 <p align=center>  <strong> 🇲🇬 Akory e 👋 🇲🇬 </strong> <p>
 
 <p align=center>  
