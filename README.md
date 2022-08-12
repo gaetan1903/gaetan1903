@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:423da7,100:008080&fontColor=dedede&height=200&section=header&text=Tsara%20zalahy%20manimanina%20e%2C%20misaotra%20mamangy%20&fontSize=24" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:423da7,100:008080&fontColor=dedede&height=160&section=header&text=Tsara%20zalahy%20manimanina%20e%2C%20misaotra%20mamangy%20&fontSize=20" />
 <p align=center>  <strong> 🇲🇬 Akory e 👋 🇲🇬 </strong> <p>
 
 <p align=center>  
@@ -6,7 +6,7 @@
 </p>
 
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=gaetan1903&theme=solarized-dark&theme=leafy&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=06ACBD&currStreakLabel=06ACBD&background=ffffff00&hide_border=true&stroke=ffffff00" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=gaetan1903&theme=solarized-dark&theme=leafy&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=06ACBD&currStreakLabel=06ACBD&background=ffffff00&hide_border=true&stroke=ffffff00" alt="GitHub Stats" />
   </p>
   
   
