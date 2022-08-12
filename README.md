@@ -18,9 +18,6 @@
   
   
 <p align='center'>
-  </br>
-  <img src='https://github.com/gaetan1903/gaetan1903/blob/output/github-contribution-grid-snake.svg'>
-  </br>
   <img alt='Python' src='https://img.shields.io/badge/Python-008080?style=for-the-badge&logo=python&logoColor=white'/>
   <img alt='Dart' src='https://img.shields.io/badge/Dart-008080?style=for-the-badge&logo=dart&logoColor=white'/>
   <img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-008080?style=for-the-badge&logo=javascript&logoColor=white'/>
@@ -29,15 +26,13 @@
 
   </p>
 
- <br/>
+
 <p align='center'>
   <img alt='Arch Linux' src='https://img.shields.io/badge/Arch_Linux-008080?style=for-the-badge&logo=arch-linux&logoColor=white'/>
   <img alt='Ubuntu' src='https://img.shields.io/badge/Ubuntu-008080?style=for-the-badge&logo=ubuntu&logoColor=white'/>
   </br>
 <p> 
-
- 
-  <br/>
+ <br/>
 
 </div>
 <p align=center>
