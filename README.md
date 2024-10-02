@@ -22,7 +22,7 @@
 
 <p align='center'>
   <img alt='Arch Linux' src='https://img.shields.io/badge/Arch_Linux-008080?style=for-the-badge&logo=arch-linux&logoColor=white'/>
-  <img alt='Ubuntu' src='https://img.shields.io/badge/Ubuntu-008080?style=for-the-badge&logo=ubuntu&logoColor=white'/>
+  <img alt='Fedora' src='https://img.shields.io/badge/Fedora-008080?style=for-the-badge&logo=fedora&logoColor=white'/>
   </br>
 <p> 
  <br/>
