@@ -13,7 +13,7 @@
 <p align='center'>
   <img alt='Python' src='https://img.shields.io/badge/Python-008080?style=for-the-badge&logo=python&logoColor=white'/>
   <img alt='Dart' src='https://img.shields.io/badge/Dart-008080?style=for-the-badge&logo=dart&logoColor=white'/>
-  <img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-008080?style=for-the-badge&logo=javascript&logoColor=white'/>
+  <img alt='TypeScript' src='https://img.shields.io/badge/TypeScript-008080?style=for-the-badge&logo=typescript&logoColor=white'/>
   <img alt='PHP' src='https://img.shields.io/badge/PHP-008080?style=for-the-badge&logo=php&logoColor=white'/>
   <img alt='BASH' src='https://img.shields.io/badge/bash-008080?style=for-the-badge&logo=linux&logoColor=white'/>
   <img alt='GO' src='https://img.shields.io/badge/go-008080?style=for-the-badge&logo=go&logoColor=white'/>
